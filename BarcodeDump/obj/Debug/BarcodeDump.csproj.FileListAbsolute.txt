@@ -1,0 +1,10 @@
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\bin\Debug\BarcodeDump.exe.config
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\bin\Debug\BarcodeDump.exe
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\bin\Debug\BarcodeDump.pdb
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.Form1.resources
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.Properties.Resources.resources
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.csproj.GenerateResource.Cache
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.exe
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.pdb
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.csprojResolveAssemblyReference.cache
+C:\Users\adm-tpeck\documents\visual studio 2013\Projects\BarcodeDump\BarcodeDump\obj\Debug\BarcodeDump.Form2.resources
